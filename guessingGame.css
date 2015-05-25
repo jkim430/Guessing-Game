@@ -5,6 +5,7 @@
  */
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -1201,6 +1202,9 @@ h6,
   font-weight: 500;
   line-height: 1.1;
   color: #fff;
+}
+h3 {
+  color: #000;
 }
 h1 small,
 h2 small,
